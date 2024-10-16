@@ -1,0 +1,5 @@
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.exe
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.dll
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.deps.json
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.runtimeconfig.json
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.pdb

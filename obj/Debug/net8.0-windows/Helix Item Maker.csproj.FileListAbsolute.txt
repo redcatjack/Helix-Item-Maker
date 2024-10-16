@@ -1,0 +1,16 @@
+E:\VS Projects\helixitemmaker\Helix Item Maker\bin\Debug\net8.0-windows\Helix Item Maker.exe
+E:\VS Projects\helixitemmaker\Helix Item Maker\bin\Debug\net8.0-windows\Helix Item Maker.deps.json
+E:\VS Projects\helixitemmaker\Helix Item Maker\bin\Debug\net8.0-windows\Helix Item Maker.runtimeconfig.json
+E:\VS Projects\helixitemmaker\Helix Item Maker\bin\Debug\net8.0-windows\Helix Item Maker.dll
+E:\VS Projects\helixitemmaker\Helix Item Maker\bin\Debug\net8.0-windows\Helix Item Maker.pdb
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.csproj.GenerateResource.cache
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.AssemblyInfoInputs.cache
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.AssemblyInfo.cs
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.csproj.CoreCompileInputs.cache
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.dll
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\refint\Helix Item Maker.dll
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.pdb
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix Item Maker.genruntimeconfig.cache
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\ref\Helix Item Maker.dll
+E:\VS Projects\helixitemmaker\Helix Item Maker\obj\Debug\net8.0-windows\Helix_Item_Maker.HelixItemMaker.resources

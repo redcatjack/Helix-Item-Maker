@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVva3eeoGqI=",
+  "success": true,
+  "projectFilePath": "E:\\VS Projects\\helixitemmaker\\Helix Item Maker\\Helix Item Maker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

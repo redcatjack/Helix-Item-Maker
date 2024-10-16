@@ -1,0 +1,7 @@
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.pdb
+C:\Users\Jack\Desktop\Helix Item Maker\D3DCompiler_47_cor3.dll
+C:\Users\Jack\Desktop\Helix Item Maker\PenImc_cor3.dll
+C:\Users\Jack\Desktop\Helix Item Maker\PresentationNative_cor3.dll
+C:\Users\Jack\Desktop\Helix Item Maker\vcruntime140_cor3.dll
+C:\Users\Jack\Desktop\Helix Item Maker\wpfgfx_cor3.dll
+C:\Users\Jack\Desktop\Helix Item Maker\Helix Item Maker.exe

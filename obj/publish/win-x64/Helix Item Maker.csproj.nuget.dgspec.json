@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS Projects\\helixitemmaker\\Helix Item Maker\\Helix Item Maker.csproj": {}
+  },
+  "projects": {
+    "E:\\VS Projects\\helixitemmaker\\Helix Item Maker\\Helix Item Maker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS Projects\\helixitemmaker\\Helix Item Maker\\Helix Item Maker.csproj",
+        "projectName": "Helix Item Maker",
+        "projectPath": "E:\\VS Projects\\helixitemmaker\\Helix Item Maker\\Helix Item Maker.csproj",
+        "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
+        "outputPath": "E:\\VS Projects\\helixitemmaker\\Helix Item Maker\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Studio Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.10, 8.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
